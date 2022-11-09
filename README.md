@@ -32,4 +32,4 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ## Tools: 
 
-Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
+Jupyter Notebook, Flask, BeautifulSoup, Pandas, and Requests/Splinter.
